@@ -1,0 +1,16 @@
+.oddNum{
+    background-color: rgba(255, 0, 0, 0.562);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+#oneID{
+    color: #0000ff;
+    font-size: 36px;
+}
+.diff{
+    font-size: 24px;
+}
+#anotherID{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
